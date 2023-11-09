@@ -8,7 +8,7 @@ I have been exploring the expansive realm of computers, immersing myself in the 
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [kotsasmin@gmail.com](mailto:kotsasmin@gmail.com)
-* 🧠  I'm learning Some new frameworks in JS
+* 🧠  I'm learning some new frameworks in JS
 * 🤝  I'm open to collaborating on Minecraft Projects, Website building, Desktop App development and more!
 
 ### Skills
