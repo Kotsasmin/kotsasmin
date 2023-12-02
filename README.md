@@ -7,7 +7,7 @@ Web Developer, Designer, Scripts & Cybersecurity
 I have been exploring the expansive realm of computers, immersing myself in the intricate domains of web development, design, scripting, and cybersecurity. My venture into the digital world has been incredibly exhilarating, and I'm deeply passionate about devising innovative solutions and crafting visually captivating designs. However, due to my commitments to school, I won't be able to submit any new work for the time being. However, I anticipate significant changes in my availability once summer arrives.
 
 * 🌍  I'm based in Greece
-* ✉️  You can contact me at [kotsasmin@gmail.com](mailto:kotsasmin@gmail.com)
+* ✉️  You can contact me at [kotsasmin@gmail.com](mailto:kotsasmin@gmail.com) and on Discord (mostly on Discord): Kotsasmin
 * 🧠  I'm learning some new frameworks in JS
 * 🤝  I'm open to collaborating on Minecraft Projects, Website building, Desktop App development and more!
 
