@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kotsasmin
 
-I am an 18-year-old full-stack web developer from Greece. Currently studying at the University of Thessaly, I’ve been passionate about computers since a very young age. Over the years, I've honed my skills and developed a deep interest in building full-stack web solutions, with a focus on front-end and back-end technologies. Occasionally, I dive into low-level programming as well.
+I am an 18-year-old full-stack web developer based in Greece. Currently studying at the University of Thessaly, I’ve been passionate about computers since a very young age. Over the years, I've honed my skills and developed a deep interest in building full-stack web solutions, with a focus on front-end and back-end technologies. Occasionally, I dive into low-level programming as well.
 
 ## 💻 Skills & Technologies
 
