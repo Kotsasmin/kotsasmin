@@ -31,6 +31,3 @@ You can check out my portfolio at [kotsasmin.dev](https://kotsasmin.dev). Feel f
 
 
 Feel free to connect with me or check out some of my repositories below!
-
-<!-- GitHub stats -->
-![Kotsasmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kotsasmin&show_icons=true&hide_title=true&count_private=true&hide=prs)
